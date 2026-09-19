@@ -4,11 +4,11 @@
 
 ## 📁 Περιεχόμενα
 \```
-├── askisi1/ # Εύρεση ριζών: διχοτόμηση, Newton-Raphson, τέμνουσα
-├── askisi2/ # Τροποποιημένες μέθοδοι (Newton-Raphson, διχοτόμηση, τέμνουσα)
-├── askisi3/ # LU (PA=LU), Cholesky, Gauss-Seidel
-├── askisi4/ # PageRank (πίνακας Google, μέθοδος δυνάμεως)
-└── report.pdf # Αναλυτική αναφορά με λύσεις, αποτελέσματα, σχολιασμό
+askisi1/ # Εύρεση ριζών: διχοτόμηση, Newton-Raphson, τέμνουσα
+askisi2/ # Τροποποιημένες μέθοδοι (Newton-Raphson, διχοτόμηση, τέμνουσα)
+askisi3/ # LU (PA=LU), Cholesky, Gauss-Seidel
+askisi4/ # PageRank (πίνακας Google, μέθοδος δυνάμεως)
+report.pdf # Αναλυτική αναφορά με λύσεις, αποτελέσματα, σχολιασμό
 \```
 
 
